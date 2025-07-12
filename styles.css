@@ -1,2 +1,18 @@
+h1{
+	text-align:center;
+	background-color:gray
+}
 
-/* Your CSS Code here. */
+img{
+	width:100%
+}
+
+nav{
+	background-color:lightgray;
+	padding:5px;
+}
+nav a{
+	text-decoration:none;
+	font
+}
+
